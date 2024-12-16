@@ -10,7 +10,13 @@ body {
 }
 
 /* Headings */
-h1, h2, h3 {
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 1000;
+    color: #ffffff; /* White for headings */
+}
+
+h2, h3 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
     color: #2c3e50; /* Dark navy for headings */
